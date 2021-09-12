@@ -1,0 +1,141 @@
+    1  git-basic-excercises
+    2  cd
+    3  git config
+    4  cd F:/Users/user/git-basic-excercises
+    5  cd F:/Users/user/git-basic-excercises
+    6  cd C:/Users/user/git-basic-excercises
+    7  cd
+    8  mkdir
+    9  mkdir --help
+   10  create the directory
+   11  ls
+   12  ls/
+   13  ls /
+   14  pwd
+   15  pwd
+   16   mkdir
+   17  mkdir --help
+   18  mkdir mpho
+   19  cd
+   20  cd dev
+   21  cd git release notes
+   22  .. home
+   23  /
+   24  ls
+   25  cd Downloads
+   26  ls
+   27  .. Downloads
+   28  cd ..
+   29  /homw/
+   30  /.home
+   31  cd /
+   32  pwd
+   33  ls
+   34  .. home
+   35  ls
+   36  ls -l
+   37   ls -r
+   38  ls -lh
+   39  man ks
+   40  man ls
+   41  man man
+   42  man man                      
+   43  less
+   44  $
+   45  cd
+   46  touch.exe Downloads/
+   47  Downloads/
+   48  Downloads/\$WINDOWS.~BT/ 
+   49  cd L 
+   50  HISTORY
+   51  history
+   52  mkdir git-basic-excercises
+   53  cd
+   54  cd/git-basic-excercises
+   55  ped
+   56  pwd
+   57  mkdir git-basic-excercises
+   58  ls
+   59  cd git-basic-excercises
+   60  ls
+   61  ls -a
+   62  git init
+   63  ls -a
+   64  git status
+   65  touch README.md
+   66  ls -a
+   67  git status
+   68  git log
+   69  git add README.md
+   70  git status
+   71  git rm --cached README.md...
+   72  git status
+   73  git rm --cached README.md
+   74  git status
+   75  git add README.md
+   76  git status
+   77  git commit -m "initial commit"
+   78  git config --global user.email "mpholeqoalane@gmail.com"
+   79  git config --global user.name "Mpho Leqoalane"
+   80  git status
+   81  git commit -m "initial commit"
+   82  git log
+   83  q
+   84  nano README.md
+   85  cat README.md
+   86  git status
+   87  git commit -a
+   88  git commit -a
+   89  clear
+   90  ls
+   91  cd git-basic-excercises/
+   92  clear
+   93  git log
+   94  cat README.md 
+   95  git add -a
+   96  git add -A
+   97  cd ../
+   98  open git-basic-excercises/
+   99  pwd
+  100  clear
+  101  cd git-basic-excercises/
+  102  ls
+  103  ls -a
+  104  ls
+  105  git add -A
+  106  git commit -m "second commit"
+  107  git log 
+  108  nano README.md 
+  109  git add -A
+  110  git commit -m "third commit"
+  111  git log 
+  112  q
+  113  git checkout bd3127ad97643c6e09eb5c65ea13b14c4c622b41
+  114  cat README.md
+  115  git checkout main
+  116  cat README.md
+  117  git checkout master
+  118  cat README.md
+  119  git log
+  120  git branch
+  121  milkshake-flavours
+  122  git branch
+  123  git branch milkshake-flavours
+  124  git branch
+  125  git branch
+  126  pwd
+  127  git branch
+  128  git checkout milkshake-flavours 
+  129  git branch
+  130  nano milkshakes.md
+  131  git status
+  132  git add -A
+  133  git commit -m "added initial flavours"
+  134  git log
+  135  git checkout master
+  136  git branch
+  137  git branch history
+  138  git branch
+  139  git checkout history
+  140  git log
+  141  history > history.txt
