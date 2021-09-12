@@ -4,3 +4,7 @@ Milkshake flavours
 - banana
 - raspberry
 - vanilla
+
+Added Flovours
+- caramel
+- chocolate
